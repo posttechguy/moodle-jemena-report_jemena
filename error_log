@@ -1,0 +1,45 @@
+[14-Aug-2015 16:15:40 Australia/Perth] Default exception handler: Section error! Debug: 
+Error code: sectionerror
+* line 463 of /lib/setuplib.php: moodle_exception thrown
+* line 6549 of /lib/adminlib.php: call to print_error()
+* line 38 of /report/jemena/index.php: call to admin_externalpage_setup()
+
+[14-Aug-2015 16:16:51 Australia/Perth] Default exception handler: Section error! Debug: 
+Error code: sectionerror
+* line 463 of /lib/setuplib.php: moodle_exception thrown
+* line 6549 of /lib/adminlib.php: call to print_error()
+* line 38 of /report/jemena/index.php: call to admin_externalpage_setup()
+
+[14-Aug-2015 16:17:20 Australia/Perth] Default exception handler: Section error! Debug: 
+Error code: sectionerror
+* line 463 of /lib/setuplib.php: moodle_exception thrown
+* line 6549 of /lib/adminlib.php: call to print_error()
+* line 38 of /report/jemena/index.php: call to admin_externalpage_setup()
+
+[14-Aug-2015 16:17:22 Australia/Perth] Default exception handler: Section error! Debug: 
+Error code: sectionerror
+* line 463 of /lib/setuplib.php: moodle_exception thrown
+* line 6549 of /lib/adminlib.php: call to print_error()
+* line 38 of /report/jemena/index.php: call to admin_externalpage_setup()
+
+[14-Aug-2015 16:17:27 Australia/Perth] Default exception handler: Section error! Debug: 
+Error code: sectionerror
+* line 463 of /lib/setuplib.php: moodle_exception thrown
+* line 6549 of /lib/adminlib.php: call to print_error()
+* line 38 of /report/jemena/index.php: call to admin_externalpage_setup()
+
+[14-Aug-2015 16:17:51 Australia/Perth] PHP Notice:  Undefined variable: userstatusarray in /home/jemena2/public_html/report/jemena/report.php on line 38
+[14-Aug-2015 16:17:51 Australia/Perth] PHP Fatal error:  Function name must be a string in /home/jemena2/public_html/report/jemena/report.php on line 38
+[14-Aug-2015 16:18:24 Australia/Perth] PHP Notice:  Undefined variable: userstatusarray in /home/jemena2/public_html/report/jemena/report.php on line 38
+[14-Aug-2015 16:18:24 Australia/Perth] PHP Fatal error:  Function name must be a string in /home/jemena2/public_html/report/jemena/report.php on line 38
+[14-Aug-2015 16:18:28 Australia/Perth] PHP Notice:  Undefined variable: userstatusarray in /home/jemena2/public_html/report/jemena/report.php on line 38
+[14-Aug-2015 16:18:28 Australia/Perth] PHP Fatal error:  Function name must be a string in /home/jemena2/public_html/report/jemena/report.php on line 38
+[14-Aug-2015 16:18:33 Australia/Perth] PHP Notice:  Undefined variable: userstatusarray in /home/jemena2/public_html/report/jemena/report.php on line 38
+[14-Aug-2015 16:18:33 Australia/Perth] PHP Fatal error:  Function name must be a string in /home/jemena2/public_html/report/jemena/report.php on line 38
+[14-Aug-2015 16:21:36 Australia/Perth] PHP Fatal error:  Function name must be a string in /home/jemena2/public_html/report/jemena/report.php on line 37
+[14-Aug-2015 16:23:09 Australia/Perth] PHP Fatal error:  Function name must be a string in /home/jemena2/public_html/report/jemena/report.php on line 38
+[17-Aug-2015 08:45:58 Australia/Perth] PHP Fatal error:  Function name must be a string in /home/jemena2/public_html/report/jemena/report.php on line 38
+[17-Aug-2015 08:49:21 Australia/Perth] PHP Fatal error:  Function name must be a string in /home/jemena2/public_html/report/jemena/report.php on line 38
+[17-Aug-2015 08:49:58 Australia/Perth] PHP Fatal error:  Function name must be a string in /home/jemena2/public_html/report/jemena/report.php on line 38
+[17-Aug-2015 08:52:48 Australia/Perth] PHP Fatal error:  Function name must be a string in /home/jemena2/public_html/report/jemena/report.php on line 38
+[17-Aug-2015 08:54:12 Australia/Perth] PHP Fatal error:  Function name must be a string in /home/jemena2/public_html/report/jemena/report.php on line 38
